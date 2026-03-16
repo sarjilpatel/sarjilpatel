@@ -1,11 +1,13 @@
 # <p align="center">Sarjil Patel</p>
 
 <p align="center">
-  <img src="./assets/banner.png" alt="Sarjil Patel's Banner" width="850" />
+  <img src="https://img.shields.io/badge/FULL--STACK-DEVELOPER-2196F3?style=for-the-badge&logo=codeforces&logoColor=white" />
+  <img src="https://img.shields.io/badge/CLOUD-ENTHUSIAST-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/INDIA-000000?style=for-the-badge&logo=google-maps&logoColor=white" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Outfit&size=20&pause=1000&color=4A90E2&center=true&vCenter=true&width=500&lines=Associate+Full+Stack+Developer;Building+Scalable+Cloud+Platforms;Infrastructure+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=24&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Associate+Full+Stack+Developer;Building+Scalable+Cloud+Platforms;Infrastructure+Enthusiast" alt="Typing SVG" />
 </p>
 
 ---
