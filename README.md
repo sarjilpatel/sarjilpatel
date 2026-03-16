@@ -1,11 +1,11 @@
-# Hi there, I'm Sarjil Patel 👋
-
-<div align="center">
-  <img src="./assets/banner.png" alt="Sarjil Patel's Banner" width="100%" />
-</div>
+# <p align="center">Sarjil Patel</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Associate+Full+Stack+Developer;Building+Scalable+Cloud+Platforms;Infrastructure+Enthusiast;React+%7C+Node.js+%7C+AWS" alt="Typing SVG" />
+  <img src="./assets/banner.png" alt="Sarjil Patel's Banner" width="850" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Outfit&size=20&pause=1000&color=4A90E2&center=true&vCenter=true&width=500&lines=Associate+Full+Stack+Developer;Building+Scalable+Cloud+Platforms;Infrastructure+Enthusiast" alt="Typing SVG" />
 </p>
 
 ---
